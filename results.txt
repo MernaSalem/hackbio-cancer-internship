@@ -1,0 +1,4 @@
+Number of A: 621
+Number of G: 54
+Number of T: 1096
+Number of C: 681
